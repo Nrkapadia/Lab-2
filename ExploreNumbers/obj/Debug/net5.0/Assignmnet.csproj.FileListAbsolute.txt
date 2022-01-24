@@ -1,0 +1,16 @@
+D:\DotNet Technologies\Assignment-2\bin\Debug\net5.0\Assignmnet.exe
+D:\DotNet Technologies\Assignment-2\bin\Debug\net5.0\Assignmnet.deps.json
+D:\DotNet Technologies\Assignment-2\bin\Debug\net5.0\Assignmnet.runtimeconfig.json
+D:\DotNet Technologies\Assignment-2\bin\Debug\net5.0\Assignmnet.runtimeconfig.dev.json
+D:\DotNet Technologies\Assignment-2\bin\Debug\net5.0\Assignmnet.dll
+D:\DotNet Technologies\Assignment-2\bin\Debug\net5.0\ref\Assignmnet.dll
+D:\DotNet Technologies\Assignment-2\bin\Debug\net5.0\Assignmnet.pdb
+D:\DotNet Technologies\Assignment-2\obj\Debug\net5.0\Assignmnet.csproj.AssemblyReference.cache
+D:\DotNet Technologies\Assignment-2\obj\Debug\net5.0\Assignmnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Technologies\Assignment-2\obj\Debug\net5.0\Assignmnet.AssemblyInfoInputs.cache
+D:\DotNet Technologies\Assignment-2\obj\Debug\net5.0\Assignmnet.AssemblyInfo.cs
+D:\DotNet Technologies\Assignment-2\obj\Debug\net5.0\Assignmnet.csproj.CoreCompileInputs.cache
+D:\DotNet Technologies\Assignment-2\obj\Debug\net5.0\Assignmnet.dll
+D:\DotNet Technologies\Assignment-2\obj\Debug\net5.0\ref\Assignmnet.dll
+D:\DotNet Technologies\Assignment-2\obj\Debug\net5.0\Assignmnet.pdb
+D:\DotNet Technologies\Assignment-2\obj\Debug\net5.0\Assignmnet.genruntimeconfig.cache
